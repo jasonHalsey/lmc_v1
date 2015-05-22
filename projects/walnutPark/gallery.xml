@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="500" maxImageHeight="400" vAlign="top" textColor="0x990000" frameColor="0xFFFFFF" frameWidth="10" stagePadding="0" thumbnailColumns="4" thumbnailRows="4" navPosition="right" enableRightClickOpen="true" imagePath="walnutPark/images/" thumbPath="walnutPark/thumbs/">
+<image>
+	<filename>01.jpg</filename>
+	<caption>Before</caption>
+	</image>
+<image>
+	<filename>02.jpg</filename>
+	<caption>Before</caption>
+	</image>
+<image>
+	<filename>03.jpg</filename>
+	<caption>Architect Rendering</caption>
+	</image>
+<image>
+	<filename>04.jpg</filename>
+	<caption>After</caption>
+	</image>
+<image>
+	<filename>05.jpg</filename>
+	<caption>After</caption>
+	</image>
+<image>
+	<filename>06.jpg</filename>
+	<caption>After</caption>
+	</image>
+<image>
+	<filename>07.jpg</filename>
+	<caption>After</caption>
+	</image>
+<image>
+	<filename>08.jpg</filename>
+	<caption>After</caption>
+	</image>
+<image>
+	<filename>09.jpg</filename>
+	<caption>After</caption>
+	</image>
+<image>
+	<filename>10.jpg</filename>
+	<caption>After</caption>
+	</image>
+<image>
+	<filename>11.jpg</filename>
+	<caption>After</caption>
+	</image>
+<image>
+	<filename>12.jpg</filename>
+	<caption>After</caption>
+	</image>
+<image>
+	<filename>13.jpg</filename>
+	<caption>After</caption>
+	</image>
+<image>
+	<filename>14.jpg</filename>
+	<caption>After</caption>
+	</image>
+<image>
+	<filename>15.jpg</filename>
+	<caption>After</caption>
+	</image>
+</simpleviewerGallery>

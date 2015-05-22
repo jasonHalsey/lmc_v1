@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="480" maxImageHeight="480" textColor="0x990000" frameColor="0xFFFFFF" frameWidth="10" stagePadding="20" thumbnailColumns="2" thumbnailRows="4" navPosition="right" enableRightClickOpen="true" imagePath="westgateTerrace/images/" thumbPath="westgateTerrace/thumbs/">
+<image>
+	<filename>01.jpg</filename>
+	</image>
+<image>
+	<filename>02.jpg</filename>
+	</image>
+<image>
+	<filename>03.jpg</filename>
+	</image>
+<image>
+	<filename>04.jpg</filename>
+	</image>
+<image>
+	<filename>05.jpg</filename>
+	</image>
+<image>
+	<filename>06.jpg</filename>
+	</image>
+<image>
+	<filename>07.jpg</filename>
+	</image>
+</simpleviewerGallery>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="500" maxImageHeight="400" vAlign="top" textColor="0x990000" frameColor="0xFFFFFF" frameWidth="10" stagePadding="0" thumbnailColumns="4" thumbnailRows="4" navPosition="right" enableRightClickOpen="true" imagePath="parkside_village/images/" thumbPath="parkside_village/thumbs/">
+<image>
+	<filename>02.jpg</filename>
+	<caption>Before</caption>
+	</image>
+<image>
+	<filename>03.jpg</filename>
+	<caption>Before</caption>
+	</image>
+<image>
+	<filename>06.jpg</filename>
+	<caption>Before</caption>
+	</image>
+<image>
+	<filename>08.jpg</filename>
+	<caption>Before</caption>
+	</image>
+<image>
+	<filename>09.jpg</filename>
+	<caption>Before</caption>
+	</image>
+<image>
+	<filename>10.jpg</filename>
+	<caption>Before</caption>
+	</image>
+<image>
+	<filename>11.jpg</filename>
+	<caption>After</caption>
+	</image>
+<image>
+	<filename>12.jpg</filename>
+	<caption>After</caption>
+	</image>
+<image>
+	<filename>16.jpg</filename>
+	<caption>After</caption>
+	</image>
+<image>
+	<filename>17.jpg</filename>
+	<caption>After</caption>
+	</image>
+<image>
+	<filename>18.jpg</filename>
+	<caption>After</caption>
+	</image>
+<image>
+	<filename>19.jpg</filename>
+	<caption>After</caption>
+	</image>
+<image>
+	<filename>20.jpg</filename>
+	<caption>After</caption>
+	</image>
+<image>
+	<filename>21.jpg</filename>
+	<caption>After</caption>
+	</image>
+</simpleviewerGallery>

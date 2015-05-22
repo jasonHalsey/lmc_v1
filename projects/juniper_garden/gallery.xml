@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="480" maxImageHeight="480" textColor="0x990000" frameColor="0xFFFFFF" frameWidth="10" stagePadding="20" thumbnailColumns="2" thumbnailRows="5" navPosition="right" enableRightClickOpen="true" imagePath="juniper_garden/images/" thumbPath="juniper_garden/thumbs/">
+<image>
+	<filename>1.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>2.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>3.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>4.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>5.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>6.jpg</filename>
+	<caption></caption>
+	</image>
+
+</simpleviewerGallery>

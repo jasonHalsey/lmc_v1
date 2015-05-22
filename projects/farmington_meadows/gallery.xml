@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="480" maxImageHeight="480" textColor="0x990000" frameColor="0xFFFFFF" frameWidth="10" stagePadding="20" thumbnailColumns="1" thumbnailRows="5" navPosition="right" enableRightClickOpen="true" imagePath="farmington_meadows/images/" thumbPath="farmington_meadows/thumbs/">
+<image>
+	<filename>01.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>02.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>03.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>04.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>05.jpg</filename>
+	<caption></caption>
+	</image>
+
+</simpleviewerGallery>

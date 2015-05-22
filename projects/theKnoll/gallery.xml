@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="480" maxImageHeight="480" textColor="0x990000" frameColor="0xFFFFFF" frameWidth="10" stagePadding="20" thumbnailColumns="4" thumbnailRows="8" navPosition="right" enableRightClickOpen="true" imagePath="theKnoll/images/" thumbPath="theKnoll/thumbs/">
+<image>
+	<filename>01.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>02.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>04.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>05.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>06.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>07.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>08.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>09.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>10.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>11.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>12.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>13.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>14.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>15.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>16.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>17.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>18.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>19.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>20.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>21.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>22.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>23.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>24.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>25.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>26.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>27.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>28.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>29.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>30.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>31.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>32.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>33.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>34.jpg</filename>
+	<caption></caption>
+	</image>
+</simpleviewerGallery>

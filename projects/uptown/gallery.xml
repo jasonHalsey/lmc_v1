@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="600" maxImageHeight="600" textColor="0x990000" frameColor="0xFFFFFF" frameWidth="10" stagePadding="30" thumbnailColumns="4" thumbnailRows="5" navPosition="right" enableRightClickOpen="true" imagePath="uptown/images/" thumbPath="uptown/thumbs/">
+<image>
+	<filename>01.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>02.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>03.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>04.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>05.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>06.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>07.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>08.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>09.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>10.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>11.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>12.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>13.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>14.jpg</filename>
+	<caption></caption>
+	</image>
+
+</simpleviewerGallery>

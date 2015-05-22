@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="500" maxImageHeight="400" vAlign="top" textColor="0x990000" frameColor="0xFFFFFF" frameWidth="10" stagePadding="0" thumbnailColumns="1" thumbnailRows="3" navPosition="right" enableRightClickOpen="true" imagePath="arielSouth/images/" thumbPath="arielSouth/thumbs/">
+<image>
+	<filename>01.jpg</filename>
+	<caption>Before</caption>
+	</image>
+<image>
+	<filename>02.jpg</filename>
+	<caption>Before</caption>
+	</image>
+<image>
+	<filename>03.jpg</filename>
+	<caption>Before</caption>
+	</image>
+</simpleviewerGallery>

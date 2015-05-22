@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="480" maxImageHeight="480" textColor="0x990000" frameColor="0xFFFFFF" frameWidth="10" stagePadding="20" thumbnailColumns="1" thumbnailRows="1" navPosition="right" enableRightClickOpen="true" imagePath="fruitValley/images/" thumbPath="fruitValley/thumbs/">
+<image>
+	<filename>01.jpg</filename>
+	</image>
+</simpleviewerGallery>

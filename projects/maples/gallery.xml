@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="600" maxImageHeight="480" textColor="0x990000" frameColor="0xFFFFFF" frameWidth="10" stagePadding="20" thumbnailColumns="2" thumbnailRows="4" navPosition="right" enableRightClickOpen="true" imagePath="maples/images/" thumbPath="maples/thumbs/">
+<image>
+	<filename>1.jpg</filename>
+	</image>
+<image>
+	<filename>2.jpg</filename>
+	</image>
+<image>
+	<filename>3.jpg</filename>
+	</image>
+<image>
+	<filename>4.jpg</filename>
+	</image>
+<image>
+	<filename>5.jpg</filename>
+	</image>
+
+
+</simpleviewerGallery>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<photos>
+	<image timeIn="1" timeOut="1" time="5" path="images/rotate2.jpg" tloc="down" tw="590" th="75" tc="0x000000" ta="70" txm="5" tym="5">
+		<![CDATA[<h1>The Knoll at Tigard</h1><p></p><p>A new 46,422 s.f. multi-family residential development</p><p><a href="projects/the_knoll.php" >Read More</a></p>]]>
+	</image>
+	<image timeIn="1" timeOut="1" time="5" path="images/rotate3.jpg" tloc="down" tw="590" th="75" tc="0x000000" ta="70" txm="5" tym="5">
+		<![CDATA[<h1>Uptown Tower</h1><p></p><p>Located at 712 SW St. Clair Avenue in Portland and consists of both interior and exterior improvements to an existing seven story apartment building.</p><p><a href="projects/uptown.php" >Read More</a></p>]]>
+	</image>
+	<image timeIn="1" timeOut="1" time="5" path="images/rotate0.jpg" tloc="down" tw="590" th="75" tc="0x000000" ta="70" txm="5" tym="5">
+		<![CDATA[<h1>Walnut Park</h1><p></p><p>38 unit affordable housing renovation project.</p><p><a href="projects/walnutPark.php" >Read More</a></p>]]>
+	</image>
+	<image timeIn="1" timeOut="1" time="5" path="images/rotate1.jpg" tloc="down" tw="590" th="75" tc="0x000000" ta="70" txm="5" tym="5">
+		<![CDATA[<h1>Rivermark Hawthorne</h1><p></p><p>new 8,700 square foot building will incorporate green building practices</p><p><a href="projects/rivermark_hawthorne.php" >Read More</a></p>]]>
+	</image>
+</photos>
+
+

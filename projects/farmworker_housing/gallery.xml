@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="600" maxImageHeight="600" textColor="0x990000" frameColor="0xFFFFFF" frameWidth="10" stagePadding="20" thumbnailColumns="1" thumbnailRows="3" navPosition="right" enableRightClickOpen="true" imagePath="farmworker_housing/images/" thumbPath="farmworker_housing/thumbs/">
+<image>
+	<filename>01.jpg</filename>
+	</image>
+<image>
+	<filename>02.jpg</filename>
+	</image>
+<image>
+	<filename>03.jpg</filename>
+	</image>
+</simpleviewerGallery>

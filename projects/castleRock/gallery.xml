@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageWidth="800" maxImageHeight="680" textColor="0xFFFFFF" frameColor="0xFFFFFF" frameWidth="10" stagePadding="20" thumbnailColumns="1" thumbnailRows="4" navPosition="right" enableRightClickOpen="true" imagePath="castleRock/images/" thumbPath="castleRock/thumbs/">
+<image>
+	<filename>1.jpg</filename>
+	</image>
+<image>
+	<filename>2.jpg</filename>
+	</image>
+<image>
+	<filename>3.jpg</filename>
+	</image>
+<image>
+	<filename>4.jpg</filename>
+	</image>
+<image>
+	<filename>01.jpg</filename>
+	</image>
+<image>
+	<filename>02.jpg</filename>
+	</image>
+
+</simpleviewerGallery>
