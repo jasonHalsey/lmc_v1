@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <photos>
+	<image timeIn="1" timeOut="1" time="5" path="images/rotate4.jpg" tloc="down" tw="590" th="75" tc="0x000000" ta="70" txm="5" tym="5">
+		<![CDATA[<h1>West Parc at Bethany Village</h1><p></p><p>A new 230,000 Square Foot Mixed Use Development with Subterranean Parking  in NW Portland.</p><p></p>]]>
+	</image>
 	<image timeIn="1" timeOut="1" time="5" path="images/rotate2.jpg" tloc="down" tw="590" th="75" tc="0x000000" ta="70" txm="5" tym="5">
 		<![CDATA[<h1>The Knoll at Tigard</h1><p></p><p>A new 46,422 s.f. multi-family residential development</p><p><a href="projects/the_knoll.php" >Read More</a></p>]]>
 	</image>
